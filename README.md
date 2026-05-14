@@ -144,64 +144,6 @@ streamlit run app.py
 
 ---
 
-# ☁️ Deploy on GitHub
-
-## Initialize Git
-
-```bash
-git init
-```
-
-## Add Files
-
-```bash
-git add .
-```
-
-## Commit Changes
-
-```bash
-git commit -m "Initial Commit"
-```
-
-## Add Remote Repository
-
-```bash
-git remote add origin https://github.com/Praneeth-376/Loan_Approval_Prediction.git
-```
-
-## Push to GitHub
-
-```bash
-git branch -M main
-git push -u origin main
-```
-
----
-
-# ☁️ Deploy on Streamlit Cloud
-
-## Step 1
-Go to:
-https://share.streamlit.io/
-
-## Step 2
-Login using GitHub account
-
-## Step 3
-Click on **New App**
-
-## Step 4
-Select:
-- Repository Name
-- Branch → `main`
-- File → `app.py`
-
-## Step 5
-Click **Deploy**
-
----
-
 # 📦 requirements.txt
 
 ```txt
@@ -213,16 +155,6 @@ matplotlib
 seaborn
 joblib
 ```
-
----
-
-# 📸 Screenshot
-
-```md
-![App Screenshot](images/screenshot.png)
-```
-
----
 
 # 🔮 Future Enhancements
 
@@ -243,28 +175,3 @@ Contributions are welcome!
 3. Commit changes
 4. Push to branch
 5. Open Pull Request
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-# 👨‍💻 Author
-
-Praneeth
-
-GitHub:
-https://github.com/Praneeth-376
-
----
-
-# ⭐ Support
-
-If you like this project:
-
-⭐ Star the repository  
-🍴 Fork the project  
-📢 Share with others
