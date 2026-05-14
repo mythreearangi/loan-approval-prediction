@@ -140,7 +140,7 @@ streamlit run app.py
 
 # 🌐 Live Demo
 
-👉 https://loanapprovalprediction-unthbgemaw2fdwdpnlt6df.streamlit.app/
+👉 https://loan-approval-prediction-ecqikwvd38cdvxnmk9e9to.streamlit.app/
 
 ---
 
