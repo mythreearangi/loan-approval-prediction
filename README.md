@@ -91,7 +91,7 @@ This project follows the complete Machine Learning workflow:
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Praneeth-376/Loan_Approval_Prediction.git
+git clone https://github.com/mythreearangi/Loan_Approval_Prediction.git
 ```
 
 ---
